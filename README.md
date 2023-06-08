@@ -1,4 +1,4 @@
-### Hi there 👋, Fadi Yassin
+# Fadi Yassin
 #### Software development
 ![Software development](https://media.licdn.com/dms/image/D4D16AQGpWtN8RnAPHg/profile-displaybackgroundimage-shrink_350_1400/0/1681571819987?e=1691625600&v=beta&t=hsRrTlkb-I_DL3KAxBj6_r0RrhfMfD8Amtr_fLDNkLs)
 
