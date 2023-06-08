@@ -4,7 +4,11 @@
 
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include: ReactNative, Python, Java Spring Boot, MySql, AWS. I'm here to share my community the project I have done and learn from others to develop my skills.
 
-Skills: ReactNative / Java Spring Boot / JS / HTML / CSS / AWS
+## Skills and Expiriace 
+#### ReactNative 
+#### Java Spring Boot
+#### JS / HTML / CSS 
+#### Amazon Web Services certificated - Solutions Architect Associate
 
 - 🔭 I’m currently working on Mindolife Coding Bootcamp 
 - 🌱 I’m currently learning ML & Data Science 
