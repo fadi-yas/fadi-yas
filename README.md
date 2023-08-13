@@ -1,6 +1,6 @@
 # Fadi Yassin
 #### Software development
-![Software development](https://media.licdn.com/dms/image/D4D16AQGpWtN8RnAPHg/profile-displaybackgroundimage-shrink_350_1400/0/1681571819987?e=1691625600&v=beta&t=hsRrTlkb-I_DL3KAxBj6_r0RrhfMfD8Amtr_fLDNkLs)
+![Software development](https://images.yourstory.com/cs/1/b3cc3444ab5e11e88691f70342131e20/Whatissoftwareandtypesofsoftwarewithexamples1575272423828jpg?w=1152&fm=auto&ar=2:1&mode=crop&crop=faces)
 
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include: ReactNative, Python, Java Spring Boot, MySql, AWS. I'm here to share my community the project I have done and learn from others to develop my skills.
 
