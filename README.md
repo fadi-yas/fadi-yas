@@ -1,12 +1,13 @@
 # Fadi Yassin
-#### Software development
+#### Software developer
 ![Software development](https://images.yourstory.com/cs/1/b3cc3444ab5e11e88691f70342131e20/Whatissoftwareandtypesofsoftwarewithexamples1575272423828jpg?w=1152&fm=auto&ar=2:1&mode=crop&crop=faces)
 
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include: ReactNative, Python, Java Spring Boot, MySql, AWS. I'm here to share my community the project I have done and learn from others to develop my skills.
 
 ## Skills and Expiriace 
-#### ReactNative 
+#### React
 #### Java Spring Boot
+#### Java, C, PYTHON
 #### JS / HTML / CSS 
 #### Amazon Web Services certificated - Solutions Architect Associate
 
